@@ -1,5 +1,7 @@
 # lacity_exploration_3
 
+![Alt Text](https://raw.githubusercontent.com/cityhubla/lacity_exploration_3/master/laex1_chart.PNG)
+
 ##This is an exploration identifying
 * Properties identified as Single Family Residences (SFR) in the City of Los Angeles.
 * A chart was created showing how many properties are based on the assessed land base year and a comparision of those properties with those rolled back by Proposition 13 (A California Voter's Initiative passed in 1978 reducing property tax rates on homes, businesses and farms).
