@@ -9,6 +9,8 @@
  * TaxRateArea_CITY = LOS ANGELES
  * PropertyType = SFR
 * Data for chart made using pivot tables in Excel (data can be downloaded on this repo)
+ * This chart used attributes in `LandBaseYear`, which is the "Land base year established by Proposition 13. Changes to land base year are triggered only by re-appraisable change-of-ownership." -LA COUNTY Open Data Portal
+ * This chart does not include the attributes in `ImpBaseYear`, which is the "Improvement base year established by Proposition 13. Changes to improvement base year are triggered only by re-appraisable change-of-ownership or major new construction." - LA County Open Data Portal
 
 ##Sources
 * 2015 LA County Assessor Data, [LA County Open Data Portal](https://data.lacounty.gov/Parcel-/Assessor-Parcels-Data-2015/hvzm-fn38)
