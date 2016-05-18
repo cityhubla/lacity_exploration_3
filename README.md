@@ -19,3 +19,6 @@
 
 ##Discrepancies
 * The data was provided by the LA County Assessor through the County's Open Data Portal, there will be some errors.
+
+##Next Steps
+* Chart Commerical Properties using `LandBaseYear`
